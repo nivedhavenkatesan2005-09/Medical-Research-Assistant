@@ -37,11 +37,11 @@ with st.sidebar:
     st.write("""
 This chatbot answers questions from Alzheimer's Disease research papers using:
 
-- 📄 Research Papers
-- 🤖 Groq Llama 3.1
-- 🔍 FAISS Vector Search
-- 🧠 HuggingFace Embeddings
-- 🔗 LangChain
+- Research Papers
+- Groq Llama 3.1
+- FAISS Vector Search
+- HuggingFace Embeddings
+- LangChain
     """)
 
     st.markdown("---")
